@@ -66,7 +66,7 @@
 
 Affitor is an AI‑native affiliate network designed for SaaS companies. It enables brands to run affiliate programs where partners can promote their products and get paid based on actual sales, not just clicks. The platform integrates with Stripe for real‑time tracking, supports payouts via Wise or bank transfers, and offers a suite of APIs and SDKs for developers to embed affiliate functionality directly into their applications. Affitor provides comprehensive documentation, a developer portal, and tools for partners to manage campaigns, track performance, and handle tax compliance.
 
-**Areas:** Affiliate · SaaS · AI · Marketing · AffiliateNetwork
+**Areas:** Affiliates · Software-as-a-Service · Artificial Intelligence · Marketing · Affiliate Network
 
 ## Affitor on APIs.io
 
@@ -84,7 +84,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Affitor Com Agentic Access](https://apis.io/agentic-access/affitor-com/affitor-com-agentic-access/)
+- [Affitor Agentic Access](https://apis.io/agentic-access/affitor-com/affitor-com-agentic-access/)
 
 #### JSON Schema (3)
 
@@ -104,14 +104,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Affitor Com Authentication](https://apis.io/security/affitor-com/affitor-com-authentication/)
-- [Affitor Com Domain Security](https://apis.io/security/affitor-com/affitor-com-domain-security/)
+- [Affitor Authentication](https://apis.io/security/affitor-com/affitor-com-authentication/)
+- [Affitor Domain Security](https://apis.io/security/affitor-com/affitor-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Affitor Com Plans Pricing](https://apis.io/plans/affitor-com/affitor-com-plans-pricing/)
+- [Affitor Plans Pricing](https://apis.io/plans/affitor-com/affitor-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -130,25 +130,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 58.2** — strong · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 53.9** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 50.2 |
-| Contract governance | 79.1 |
-| Operational transparency | 15.8 |
+| Discoverability | 83.9 |
+| Contract quality | 53.3 |
+| Contract governance | 35.6 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 68.3 |
-| Access clarity | 63.7 |
+| Access clarity | 63.8 |
 
-**Agent readiness 57.4** — agent-ready (gated down from agent-native)
+**Agent readiness 49.0** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -166,8 +166,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/affitor-com/](https://apis.io/providers/affitor-com/).
 
